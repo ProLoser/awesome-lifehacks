@@ -1,5 +1,4 @@
-# awesome-dieting-lifehacks
-
+# Dieting
 A list of small ways to move the needle on your path to skinny
 
 ### Leftovers
