@@ -8,8 +8,12 @@
 
 ## Topics
 
-- [Cooking](topics/Cooking.md)
-- [Dieting](topics/Dieting.md)
 - [Cleaning](topics/Cleaning.md)
+- [Cooking](topics/Cooking.md)
+- [Dating](topics/Dating.md)
+- [Dieting](topics/Dieting.md)
+- [Humor](topics/Humor.md)
+- [Poverty](topics/Poverty.md)
 - [Productivity](topics/Productivity.md)
+- [Social](topics/Social.md)
 - [Travelling](topics/Fashion.md)
