@@ -1,2 +1,15 @@
-# awesome-lifehacks
-A curated collection of lifehacks for everyday situations
+# awesome-lifehacks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> Lifehacks for everyday situations
+
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
+*Please read the [Contributing Guidelines](contributing.md) before contributing.*
+
+## Topics
+
+- [Cooking](topics/Cooking.md)
+- [Dieting](topics/Dieting.md)
+- [Cleaning](topics/Cleaning.md)
+- [Productivity](topics/Productivity.md)
+- [Travelling](topics/Fashion.md)
