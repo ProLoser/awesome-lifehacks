@@ -3,6 +3,9 @@
 ### [Boneless, Skinless Chicken Thighs](Dieting.md#boneless-skinless-chicken-thighs)
 This cut of meat is always easier to cook to jucier perfection than the breast meat counterpart. Try substituting in most of your chicken dishes and you'll find you're addicted to this healthy meat.
 
+### Mayonaise Marinade
+Turn any dry rub or your favorite spice blend into a marinade by adding mayonaise. Mix the spices evenly into the mayo and make sure your food has an even coating. There won't be any lingering mayo taste as most of the oils cook away.
+
 ### Mushrooms
 Cook mushrooms on high heat. Hold off on adding salt towards the end, otherwise they may shrivel and lose their juice.
 
