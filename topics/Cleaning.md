@@ -1,5 +1,14 @@
 # Cleaning
 
+### Clean from top to bottom
+Clean up high to let grime fall down to the next surface. 
+Eventually you will have all the dirt on the floor at which point I highly recommend a robot vacuum/mop with self refilling/cleaning base station.
+
+### Look at how you load the Dishwasher
+You should look through the racks to confirm that dishes with the most grime are accessible to jets.
+Keep dirtier items closer to the jets (near the center typically).
+Seriously, look up a [youtube video](https://youtu.be/jHP942Livy0?si=IuwhrM9RhbpwHqQq).
+
 ### Place heavier items in the bottom of the washer
 If you have a top-down washer, you can prevent an uneven load by putting the heaviest items in at the bottom (jeans and towel). This will keep the center of gravity lower and reduce knocking.
 
