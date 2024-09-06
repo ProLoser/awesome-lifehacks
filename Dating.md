@@ -1,5 +1,9 @@
 # Dating
 
+## Standing Out
+Evolution is about competition when you distill it down to a basic level. On a pure probability level it is statistically impossible for you to always be the smartest/fittest/hottest in the room in every room. But under that same probability it is really easy to NOT be the least in the room. This is because the average majority of people simply do not care or they are unable to maintain. Those who pursue this as their primary goal compromise their other life values.
+Instead, live intentionally and maximize your existence. Whatever you pursue, due so with conviction and optimism. You will never stand out if you are like everybody else living life "incidentally" between streaming shows on Netflix and swiping through posts. Do not live to pursue but instead pursue embetterment of yourself and see who appreciates and can match the energy you create. 
+
 ## Meeting Someone New
 
 ### Archive Conversations
