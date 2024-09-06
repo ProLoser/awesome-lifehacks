@@ -8,6 +8,8 @@ Everything in your inventory should be visible at a glance, nothing should be hi
 Items should be put into groups that work independently and are mobile and organized.
 
 ## Ask Yourself If It Sparks Joy
+Marie Kondo that shi*
+
 Be honest with yourself when it's time to let go. Kill your darlings. 
 Those ideas that have dragged on far too long and will never go anywhere and only serve as emotional weight.
 
