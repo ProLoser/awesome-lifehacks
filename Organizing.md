@@ -20,3 +20,11 @@ Start organizing the pile into smaller purpose-based piles, and place all your c
 
 As you complete piles for appropriate purposes or spaces, find the smallest container that fits all the items in the pile and combine them together.
 
+## Go Bags
+maintain task-oriented bags that contain all the essential tools necessary for a task or activity (sports, work, at, etc)
+
+do not share items across bags, instead leverage duplicates so that a go bag is fully encapsulating and complete.
+
+reexamine usefulness and organization as needed at regular intervals 
+
+ritualize refilling your go bags and cleaning and prepping upon completing the activity so that you are unencumbered when the fancy strikes you grab and go
