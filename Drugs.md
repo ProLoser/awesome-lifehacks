@@ -1,10 +1,17 @@
 # Humans and Chemicals
 
-Watch the first episode of "Midnight Gospel" on Netflix
+## First episode of "Midnight Gospel" on Netflix
 
-Watch the movie "Limitless"
+"There are no good drugs and bad drugs. there are chemicals that exist either naturally occurring or man-made and there's how our bodies interact with them.
+
+taking an anesthetic right before surgery really really good. taking anesthetic before drinking and driving home: really, really bad."
+- Dr
+
+## Movie "Limitless"
+it's literally about Adderall. spilled rich kids pop them and sell them like candy. might as well understand what they do. 
+also, Adderall is just show release meth
 
 ## what if I have a bad trip?
 Explore it. These feelings and emotions come from somewhere, and the stronger you push against them or try to control your thoughts the more difficult and frustrated you will become. just remember that "this too shall pass", relent to time, and just go along with and explore these feelings as an opportunity to better examine yourself from the inside out. 
 
-Emotions have no mad or weight. they come and go. they are not good or evil they are simply responses to stimuli.
+Emotions and thoughts have no weight. they come and go. they are not good or evil they are simply responses to stimuli.
