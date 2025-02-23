@@ -13,4 +13,6 @@ Typically we are too emotionally charged or too busy to be able to look at our p
 ### Chat GPT
 If you don't mind a technology company knowing everything about you, you can try chatting with an AI. They are great at digesting a large amount of information and giving suggestions based on that information and based on similar scenarios. 
 
-They should always be interpreted as WRONG and never be fully retired upon to start your life. technology will always fail or become compromised. it is not a matter of "if", it is a matter of "when".
+They should always be interpreted as WRONG and never be fully relied upon to steer your life. technology will always fail or become compromised. it is not a matter of "if", it is a matter of "when".
+
+So we must treat technology as merely another data point like every other anecdotal feedback or even a well researched "scholarly" article. we must take in all these considerations and let them simmer. distill your emotional response before sending. always give it at least one hour but up to 24 hours to simmer. the temporary emotions will fade, but your underlying reasoning for those emotions might remain. use that to steer your life, and do not add emotional weight to sunk cost it is merely another data point in life.
