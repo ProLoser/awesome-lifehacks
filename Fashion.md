@@ -1,6 +1,6 @@
 # Fashion
 
-## Beauty is in the eye of the beholder
+Beauty is in the eye of the beholder
 
 ## Marie Kondo that shit 
 If your clothing does not spark joy (usually you haven't worn it in over a year) donate it. make space for more opportunities to intentionally passively give yourself joy every day.
