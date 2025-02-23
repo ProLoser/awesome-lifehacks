@@ -10,7 +10,7 @@ If you find thoughts constantly spinning around in your head, WRITE THEM DOWN.
 
 Typically we are too emotionally charged or too busy to be able to look at our problems with the added lens of perspective until we've actually gone through the physical process of expressing the thoughts from our body into physical form
 
-### Chat GPT
+## Chat with GPT
 If you don't mind a technology company knowing everything about you, you can try chatting with an AI. They are great at digesting a large amount of information and giving suggestions based on that information and based on similar scenarios. 
 
 They should always be interpreted as WRONG and never be fully relied upon to steer your life. technology will always fail or become compromised. it is not a matter of "if", it is a matter of "when".
