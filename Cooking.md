@@ -12,7 +12,7 @@ Cook mushrooms on high heat. Hold off on adding salt towards the end, otherwise 
 If you plan to add onions, throw them in once the mushrooms start getting shiny.
 
 ### Watermelons
-The *PROPER* way to pick the best melon: pick the heaviest melon for it's size. If the grocery store has a scale, try using it. The extra juice will give the melon more mass and weight.
+The *PROPER* way to pick the best melon: pick the heaviest melon for it's size. If the grocery store has a scale, try using it. The extra juice will give the melon more weight for its mass.
 
 If you cut the melon in half, you can sometimes store the remaining half in a large mixing bowl with a cover in the fridge.
 
@@ -32,6 +32,6 @@ If you cut the melon in half, you can sometimes store the remaining half in a la
 4. Cut rows of 1-2in slices across the melon
 5. Turn 90deg and do it again
 6. Take a large mixing bowl and place it upside down over the half melon
-7. While holding the cutting board to the bowl, flip everything over
+7. While holding the cutting board and bowl, flip everything over
 8. Hand out toothpicks or forks and let people grab spears from the bowl
 9. Cover the bowl for easy fridge storage and eating later.
