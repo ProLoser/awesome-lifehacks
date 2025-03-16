@@ -17,13 +17,10 @@ Food is how we experience culture. I don't like artificially limit my existence.
 "I don't like food, I LOVE it. If I DONT love it I DONT swallow."
 - Anton Ego (Ratatouille 2007)
 
-## 8oz Soda
-If you have trouble weening off of soda, try the 8oz cans (and check out the versions with Real Sugar). It frequently ends up being enough for one serving.
-
-## [Boneless, Skinless Chicken Thighs](Cooking.md#boneless-skinless-chicken-thighs)
-These are slightly fattier (although still healthier than beef and pork) and always come out juicy. Try cooking at home with this meat and you'll find it's easier to cook your chicken jucier and tastier than with breast meat.
-
 ## Give away the last bite
 
 ## Pay extra 
 Unfortunately, eating healthy can invariably be more expensive. If you're not hurting for funds, try switching your meat to shrimp or adding steak to your salad if you're aversed to the cardboard most places pass for chicken with salads.
+
+## 8oz Soda cans
+Try to get the ones with real sugar instead of HFCS
