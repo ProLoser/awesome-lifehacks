@@ -1,17 +1,17 @@
 # Cooking
 
-### [Boneless, Skinless Chicken Thighs](Dieting.md#boneless-skinless-chicken-thighs)
+## [Boneless, Skinless Chicken Thighs](Dieting.md#boneless-skinless-chicken-thighs)
 This cut of meat is always easier to cook to jucier perfection than the breast meat counterpart. Try substituting in most of your chicken dishes and you'll find you're addicted to this healthy meat.
 
-### Mayonaise Marinade
+## Mayonaise Marinade
 Turn any dry rub or your favorite spice blend into a marinade by adding mayonaise. Mix the spices evenly into the mayo and make sure your food has an even coating. There won't be any lingering mayo taste as most of the oils cook away.
 
-### Mushrooms
+## Mushrooms
 Cook mushrooms on high heat. Hold off on adding salt towards the end, otherwise they may shrivel and lose their juice.
 
 If you plan to add onions, throw them in once the mushrooms start getting shiny.
 
-### Watermelons
+## Watermelons
 The *PROPER* way to pick the best melon: pick the heaviest melon for it's size. If the grocery store has a scale, try using it. The extra juice will give the melon more weight for its mass.
 
 If you cut the melon in half, you can sometimes store the remaining half in a large mixing bowl with a cover in the fridge.
