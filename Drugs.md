@@ -1,6 +1,6 @@
 # Humans and Chemicals
 
-## First episode of "Midnight Gospel" on Netflix
+## [First episode of "Midnight Gospel" on Netflix](https://www.netflix.com/title/80987903)
 
 "There are no good drugs and bad drugs. there are chemicals that exist either naturally occurring or man-made and there's how our bodies interact with them.
 
