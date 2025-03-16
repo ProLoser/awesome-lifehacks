@@ -1,10 +1,15 @@
 # Coding
 
 ## Work Life Balance
-COVID allowed me to explore a new approach to worklife productivity balance. I found that it was extremely difficult to complete my coding tasks during a work day as the context switching in and out of meetings as well as reviewing and digesting challenges and feedback from other teams can mean it's extremely difficult to see any real progress when programming. When COVID hit, most stores were only open in the middle of the afternoon which forced me to attend meetings remotely while taking care of chores. I would then defer my programming time to a separate window in my schedule. I would frequently spend multiple days deliberately avoiding programming merely because I have so many meetings or chores. This enabled me to plan and network amongst my team and other dependencies before I finally choose to sit and code.
-I ask questions, i take notes, and i do research while actively reviewing work of my teammates to keep them unblocked. This way no one can say that my priorities affect them. Finally, I plan to occasionally pull late nights or long hours focused purely on programming (or just going through emails) but in exchange I find I only ever need to do it once a week or on rare occasion. It's these opportunities where we can tunnel focus in on the task at hand uninterupted by other people and notifications that you will have the most effective momentum. If you have actively done as much prep and research and ideation and discussion you could before you alloted coding window, then you will find what you have to write flows freely and is unblock from your mind.
+It's difficult to code while context switching in and out of meetings and reviews. Sometimes challenges require digestion and feedback. The biggest blocker is lack of knowledge and decision making.
 
-At the end of the day, you can only ask yourself to accomplish one thing. To move the needle. To hit the ball back into someone else's court. Not every ball, not every court. But challenge yourself with the lowest you can attain and see how far your momentum takes you.
+When COVID hit, most stores were only open in the middle of the afternoon. It forced me to attend meetings remotely while taking care of chores. I would then defer my programming to a separate window in my schedule. I would frequently spend multiple days deliberately avoiding programming to focus on meetings and chores and to polish my plan. When you finally sit down to code you will appreciate all the research and spec collection gathering and brainstorming you frontloaded.
+
+Ask questions, take notes, and research while actively reviewing work of your teammates to keep them unblocked. Focus on reviews and teammate velocity. When your plan is ready, take a block of hours to disconnect from the world and focus purely on programming (or just going through emails)
+
+I found my productivity increase reduced the need for coding sessions maybe once or twice a week. It's important to create situations where you can tunnel focus on the task at hand uninterrupted. When the plan and research is clear, your code will flow freely.
+
+At the end of the day, you can only ask yourself to accomplish one thing. Move the needle. Hit the ball back into someone else's court. Not every ball, not every court. But challenge yourself with the lowest you can attain and see how far your momentum takes you.
 
 ## anti patterns
 Code patterns are just tools. They are not typically good or bad, they are merely tools that we can choose to leverage or bias ourselves to avoid. Instead always be open to changing your perspective when given new information.
