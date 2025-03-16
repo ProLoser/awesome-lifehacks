@@ -6,7 +6,7 @@
 
 ## Recovery
 
-## 7 Minute Workout
+## [7 Minute Workout](https://youtube.com/playlist?list=PLZU1qiysdorZQe4T7ERd1xWkHB64H_wtd&si=TCKW2sNnBm0Spc7f)
 Why not 6 minutes? Why not 2 hours?
 
 ## Only Compete With Yourself
