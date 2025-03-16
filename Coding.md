@@ -14,3 +14,8 @@
 Forgiveness vs Permission
 
 minimalism and skeuomorphism
+
+## Terminal
+
+`ctrl + R` in Terminal will allow you to search through your command history
+
