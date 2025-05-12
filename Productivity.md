@@ -19,7 +19,7 @@ Your laptop battery is an excellent timer, simply top off your device and then d
 
 ## Email
 
-### Unsubscribe, Spam and Filter Effectively. Don't Delete.
+### Unsubscribe, Spam and Filter Effectively. Don't just Delete.
 Deleting garbage emails only blocks the individual email, whereas unsubscribing, marking as spam and filtering prevents all subsequent garbage from that sender. Yes, there's lots of spam, but this is a marathon, not a race. Better than doom-scrolling.
 
 ### Respond, Schedule, Prioritize
