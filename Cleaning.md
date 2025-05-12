@@ -32,7 +32,7 @@ If you have a top-down washer, you can prevent an uneven load by putting the hea
 
 It may also help to place these longer items in a loose ball so they don't wrap around the center post and stop the drum from spinning.
 
-### Turn jeans inside-out when washing
+### Turn jeans/pants inside-out when washing
 Allows the pockets and interior linings to dry off sooner.
 
 ### Turn some shirts/jackets inside-out to prevent pilling
