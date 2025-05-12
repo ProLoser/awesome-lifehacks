@@ -6,6 +6,14 @@ Eventually you will have all the dirt on the floor at which point I highly recom
 
 ## Dishwasher
 
+### Hand Washing
+If you prefer hand washing, consider focusing on your key cookware pieces and using the machine for common items:
+- dinnerware 
+- complex items 
+- stained items
+
+Use the "Rinse" cycle to prevent your dirty dishes from drying out over night if you want to wait until the machine is full before running a full wash cycle.
+
 ### Look at how you load the machine
 You should look through the racks to confirm that dishes with the most grime are accessible to jets.
 Keep dirtier items closer to the jets (near the center typically).
