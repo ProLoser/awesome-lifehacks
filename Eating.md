@@ -7,7 +7,10 @@ Americans have huge portions which can make dieting difficult. When dining for 2
 Ask employees the 2 most popular items. Trust customers who order the same thing twice. Look at the kitchen and avoid ordering dishes they would not excel at. Try to focus on items and ingredients made fresh and in-house.
 
 ## Sandwiches
-most sandwiches have 2 flavors. turn the sandwich upside down to try the opposite flavor profile
+Sandwiches have 2 flavors. turn the sandwich upside down to try the opposite flavor profile. The order in which the ingredient layers encounter your palette will create a completely different flavor profile.
+
+### Eat Baklava Upside Down
+An amazing balance chef once told me, and I realized this allows your tongue to hit the delicately crispy layers on the top of the pastry before becoming smothered in nuts and syrup
 
 # Dieting
 
