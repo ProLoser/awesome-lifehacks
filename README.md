@@ -6,12 +6,13 @@
 
 ## Table of Contents
 
-- [Coding](https://github.com/ProLoser/awesome-lifehacks/blob/main/Coding.md)
-- [Dating](https://github.com/ProLoser/awesome-lifehacks/blob/main/Dating.md)
-- [Chemicals](https://github.com/ProLoser/awesome-lifehacks/blob/main/Drugs.md)
-- [Eating](https://github.com/ProLoser/awesome-lifehacks/blob/main/Eating.md)
-- [Fitness](https://github.com/ProLoser/awesome-lifehacks/blob/main/Fitness.md)
-- [Plants](https://github.com/ProLoser/awesome-lifehacks/blob/main/Plants.md)
-- [Social](https://github.com/ProLoser/awesome-lifehacks/blob/main/Social.md)
-- [Stress](https://github.com/ProLoser/awesome-lifehacks/blob/main/Stress.md)
-- [Travel](https://github.com/ProLoser/awesome-lifehacks/blob/main/Travel.md)
+- [Cleaning](./Cleaning.md)
+- [Coding](./Coding.md)
+- [Dating](./Dating.md)
+- [Chemicals](./Drugs.md)
+- [Eating](./Eating.md)
+- [Fitness](./Fitness.md)
+- [Plants](./Plants.md)
+- [Social](./Social.md)
+- [Stress](./Stress.md)
+- [Travel](./Travel.md)
