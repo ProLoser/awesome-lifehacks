@@ -16,3 +16,6 @@ Actors are paid to go to the gym. The rest of us typically have careers and hobb
 
 ## Break the Losing Streak
 Don't focus on maintaining a winning streak of consecutive days of active fitness, this seems highly impossible to maintain long term and sets unrealistic expectations.
+
+## Shifting your Breaking Point
+if you build up stamina during a set you can try increasing your intensity or up shifting to finish with high intensity. alternatively if you feel yourself failing early you can down shift your intensity to increase your comfort and durability
