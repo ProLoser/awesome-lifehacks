@@ -12,6 +12,7 @@
 - [Dating](./Dating.md)
 - [Chemicals](./Drugs.md)
 - [Eating](./Eating.md)
+- [Fashion](./Fashion.md)
 - [Fitness](./Fitness.md)
 - [Plants](./Plants.md)
 - [Social](./Social.md)
