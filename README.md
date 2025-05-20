@@ -16,6 +16,7 @@
 - [Fitness](./Fitness.md)
 - [Fashion](./Fashion.md)
 - [Plants](./Plants.md)
+- [Productivity](./Productivity.md)
 - [Social](./Social.md)
 - [Stress](./Stress.md)
 - [Travel](./Travel.md)
