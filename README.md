@@ -8,7 +8,7 @@
 
 - [Coding](https://github.com/ProLoser/awesome-lifehacks/blob/main/Coding.md)
 - [Dating](https://github.com/ProLoser/awesome-lifehacks/blob/main/Dating.md)
-- [Drugs](https://github.com/ProLoser/awesome-lifehacks/blob/main/Drugs.md)
+- [Chemicals](https://github.com/ProLoser/awesome-lifehacks/blob/main/Drugs.md)
 - [Eating](https://github.com/ProLoser/awesome-lifehacks/blob/main/Eating.md)
 - [Fitness](https://github.com/ProLoser/awesome-lifehacks/blob/main/Fitness.md)
 - [Plants](https://github.com/ProLoser/awesome-lifehacks/blob/main/Plants.md)
