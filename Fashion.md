@@ -23,6 +23,9 @@ Great for boots and shoes with lots of eyelits, this technique can be mixed with
 ### Comfort Lacing
 https://www.reddit.com/r/coolguides/comments/o1jug5/how_to_lace_running_shoes/#lightbox
 
+### Creative Lacing
+https://www.fieggen.com/shoelace/index.htm
+
 ## Marie Kondo that shit 
 If your clothing does not spark joy (usually you haven't worn it in over a year) donate it. make space for more opportunities to intentionally passively give yourself joy every day.
 
