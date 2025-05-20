@@ -3,7 +3,8 @@
 Beauty is in the eye of the beholder
 
 ## Life is too short for matching socks
-
+All my socks either match identically or uniformly do not match each other. 
+I also switched 100% to gym underwear so I'm always ready for a sweaty day at Disneyland
 
 ## Shoe Laces 
 I take time to tie my shoes. after covid, it's a luxury I like to embrace and enjoy the ritual of.
