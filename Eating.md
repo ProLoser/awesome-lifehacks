@@ -33,3 +33,7 @@ Unfortunately, eating healthy can invariably be more expensive. If you're not hu
 
 ## 8oz Soda cans
 Try to get the ones with real sugar instead of HFCS
+
+## Stop drinking sugar
+The fastest way to increase calories anything less processed and less artificial will help
+
