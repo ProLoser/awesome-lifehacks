@@ -1,5 +1,6 @@
 # Eating
 
+
 ## American Portions
 Americans have huge portions which can make dieting difficult. When dining for 2, instead of buying separate entrees, consider ordering a full-course meal for 1 person and sharing. This will allow you to have half the portions while increasing the variety of dishes. If you don't have a partner, consider purchasing 2 lunch and dinner from one restaurant and splitting the meal in half before starting.
 
@@ -14,8 +15,13 @@ An amazing balance chef once told me, and I realized this allows your tongue to 
 
 # Dieting
 
-### Ratatouille Diet
-Food is how we experience culture. I don't like artificially limit my existence. I practice moderation and prioritization. Consider the Ratatouille Critic Diet.
+Food is how we experience culture.
+
+I don't believe in artificially limiting a mindful existence. 
+
+I practice moderation and prioritization. 
+
+## Ratatouille Diet
 
 "I don't like food, I LOVE it. If I DONT love it I DONT swallow."
 - Anton Ego (Ratatouille 2007)
