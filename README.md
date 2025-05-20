@@ -14,6 +14,7 @@
 - [Eating](./Eating.md)
 - [Fashion](./Fashion.md)
 - [Fitness](./Fitness.md)
+- [Fashion](./Fashion.md)
 - [Plants](./Plants.md)
 - [Social](./Social.md)
 - [Stress](./Stress.md)
