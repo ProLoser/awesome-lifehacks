@@ -25,6 +25,11 @@ I practice moderation and prioritization.
 "I don't like food, I LOVE it. If I DONT love it I DONT swallow."
 - Anton Ego (Ratatouille 2007)
 
+## Eat Less, More Often 
+Always order small, and spread your intake out throughout the day, maybe even across more locations.
+
+Sometimes I will fast for a day just to allow more time to digest but be careful of binge ordering and eating when breaking your fast.
+
 ## Give away the last bite
 
 ## Pay extra 
