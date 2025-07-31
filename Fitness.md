@@ -3,10 +3,7 @@
 I switched all my underwear to gym boxers so I'm always ready for a sweaty day at Disneyland
 
 ## Breathing 
-
-## Posture
-
-## Recovery
+When working out, you can deliberately slow down your heart rate by synthetically slowing down your breathing. You can use this to passively recover your breath during anaerobic exercises, such as planks or other holds, that don't require a lot of movement and breathing. Pay attention to your breath, not just during exercise, but throughout the day. Most of us are shallow breathers. Practice diaphragmatic breathing (belly breathing) to increase your lung capacity and calm your nervous system. Inhale through your nose, let your belly expand, and exhale slowly through your mouth.
 
 ## [7 Minute Workout](https://youtube.com/playlist?list=PLZU1qiysdorZQe4T7ERd1xWkHB64H_wtd&si=TCKW2sNnBm0Spc7f)
 Why not 6 minutes? Why not 2 hours?

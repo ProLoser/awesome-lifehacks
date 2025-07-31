@@ -8,7 +8,7 @@
 
 - [Cleaning](./Cleaning.md)
 - [Coding](./Coding.md)
-- [Clooking](./Cooking.md)
+- [Cooking](./Cooking.md)
 - [Dating](./Dating.md)
 - [Chemicals](./Drugs.md)
 - [Eating](./Eating.md)

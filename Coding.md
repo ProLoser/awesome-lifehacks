@@ -29,11 +29,20 @@ Focus on the 20% effort that would cover 80% of the results / users. Then identi
 
 
 ## Peer Review
+A code review is a conversation about a proposed change. It's a chance to share knowledge, identify potential issues, and improve the quality of the codebase. When reviewing code, try to be constructive and focus on the code, not the person. Ask questions instead of making demands. For example, instead of saying "This is wrong, do it this way", try "Have you considered this alternative approach? It might be more efficient because...".
+
+Remember that the goal of a peer review is to improve the code, not to prove who is right or wrong. Be open to feedback on your own code and be willing to make changes.
 
 ## Interface Design
-Forgiveness vs Permission
+### Forgiveness vs Permission
+In interface design, "forgiveness" means that the user can easily undo their actions. For example, a good interface will have an "undo" button or a "trash" can that allows users to recover deleted items. This makes users feel more comfortable exploring the interface and trying new things.
 
-minimalism and skeuomorphism
+"Permission" on the other hand, means that the user is asked for confirmation before performing a potentially destructive action. For example, a dialog box that asks "Are you sure you want to delete this file?". While this can be useful in some cases, it can also be annoying if overused. A good interface will strike a balance between forgiveness and permission.
+
+### minimalism and skeuomorphism
+Minimalism in interface design is about removing unnecessary elements and focusing on the essential. This can make the interface cleaner, easier to use, and faster to load.
+
+Skeuomorphism is the opposite of minimalism. It's about making digital objects resemble their real-world counterparts. For example, a notes app that looks like a yellow legal pad. While this can make the interface more familiar and intuitive, it can also make it look dated and cluttered.
 
 ## Terminal
 
