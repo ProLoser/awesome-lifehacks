@@ -15,3 +15,6 @@ Your vision is a tool for safety and to understand the world around you. don't a
 
 ### Watergun for hot days
 Carry a small watergun with you on hot days to squirt overheating dogs on the sidewalk. Assuming their owners don't mind.
+
+### Monday-Wednesday are Best Nights to go out
+While they usually lack live music, the crowds are smaller and the prices are cheaper. Especially spots with music all week.
