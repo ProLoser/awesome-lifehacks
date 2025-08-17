@@ -28,7 +28,7 @@ Emails typically should be handled immediately, scheduled in a calendar, or prio
 ### Declare Inbox Bankrupcy
 If your unread email count is too massive, that's okay. You are not your inbox. Just pick a date after which you feel is reasonable and archive or delete everything before that point.
 
-### Signup using Email Tags ([Sub-Addresses](https://en.wikipedia.org/wiki/Email_address#Sub-addressing))
+### Use Email Tags ([Sub-Addresses](https://en.wikipedia.org/wiki/Email_address#Sub-addressing))
 Most email services support sub-addresses, or variations of your email address that forward to your normal inbox (but display the address the email was sent to).
 
 When signing up for most websites and services, I try to tag the registration email with the entity that I'm signing up at: `dean@gmail.com` becomes `dean+bestbuy@gmail.com`
