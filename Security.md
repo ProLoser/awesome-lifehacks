@@ -1,10 +1,10 @@
 # Security
 
 ## Managing Passwords
-use a password manager like Apple, Google or one password 
+Use a password manager keychain like Apple, Google or OnePassword.
 
-use a different password for every website 
+Use a different, randomly generated, password for every website. You should only customize and memorize one password: the one to your keychain. Do not reuse or share this password anywhere with anyone. Any form of digitization or saving of this password should be considered a major security risk.
 
-use oauth logins if you don't mind sharing your email with partner websites. 
+In exchange, compromising of your randomly generated password is negligible, as you can immediately sign back in and change to a new randomly generated password.
 
-you can customize your email address so that no two websites share the same email as well as same password. this also makes it easier to keep track of how your contact information is spread through different businesses and the internet
+Logging in with Open Authintication (partner logins) are secure as your password is never shared with the service, but you cannot [customize your email using email tags](../Productivity.md#use-email-tags-sub-addresses) before it is shared with the partner.
