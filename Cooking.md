@@ -35,3 +35,6 @@ If you cut the melon in half, you can sometimes store the remaining half in a la
 7. While holding the cutting board and bowl, flip everything over
 8. Hand out toothpicks or forks and let people grab spears from the bowl
 9. Cover the bowl for easy fridge storage and eating later.
+
+## Garlic
+After trying several solutions, the OXO Garlic Press is the most reliable, fast, easy to clean, and peeling is optional.
