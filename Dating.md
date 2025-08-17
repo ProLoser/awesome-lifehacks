@@ -21,7 +21,10 @@ People have lives. When someone returns to a conversation, the last thing they'l
 
 ## Relationships
 
+Everyone deserves a partner that supports and encourages them. But it's the Golden Rule that will have the most effect. Put out into the world what you want it to give back to you. Do not wait for your partner or anyone else to initiate and improve your existence on your behalf when so many people struggle every day with managing their own.
+
 ### Facts vs Feelings
+When we argue, it is typically our emotionally charged response we immediately make that we later regret. But the truth is saying nothing is a valid reponse. Taking the time to think and process your words before expressing them will allow you to distill your emotional responses and give you an opportunity to examine and identify the "why this affects me" part of the emotional response and move past the "what someone did wrong" which is in the immutable past and cannot be changed, only considered.
 
 ### Win the fight, lose the relationship
 Try to remind yourself about your bigger goal when you're fighting. The point isn't to win the argument, the point is to make the relationship succeed. The best way to accomplish this is to remind yourself what you really want in the relationship, and not just how you feel at that exact moment. Try to deliberately lose the fight as quickly as possible and you'll find both you and your partner will be able to resolve things more easily.
