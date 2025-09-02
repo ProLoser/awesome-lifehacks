@@ -46,3 +46,7 @@ I have mixed feelings about most dietary supplements because it's so difficult t
 
 That said, a great way to eat less (unhealthy) food is to simply substitute it in which case water makes an excellent option so the most important detail is to take time and energy (and expense) to find an enjoyable form of consumption like a fancy water bottle that stays cold for 24 hours in your favorite colors. Anything to subconsciously encourage yourself to adopt healthier daily habits and rituals by reducing the perceived barrier to effort and increasing the perceived delight or associating the positive habit with emotional reward.
 
+# Drinking 
+
+How to drink from an engineer with a stomach disease.
+
