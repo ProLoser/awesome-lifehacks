@@ -21,6 +21,8 @@ Code debt exploration spikes although frequently incomplete are still extremely 
 
 Try to write code with the intention of refactoring. Anticipate future expectations of evolving behavior and try to adopt the relevant paradigms and patterns without increasing complexitly prematurely. It is always easier to make something simple more complicated than it is to make something complicated more simple.
 
+Although research spikes may yield insight, they are sometimes costly and difficult to merge. One way to enable opportunities to work on and merge code debt is by associating the code debt with bug fix and performance improvement opportunities (tracked in a project manager of course), so that your manager and team can have greater visibility to the value of the work and tradeoffs.
+
 Premature Optimization is like other Premature things... Emberrassing.
 - Unknown
 
@@ -29,11 +31,12 @@ Focus on the 20% effort that would cover 80% of the results / users. Then identi
 
 
 ## Peer Review
+Every line of code committed into production should be reviewed by at least 1 other human. Even interns and junior engineers are good enough. AI provides ideas, not security.
 
 ## Interface Design
 Forgiveness vs Permission
 
-minimalism and skeuomorphism
+minimalism (focus) and skeuomorphism (adoption)
 
 ## Terminal
 
@@ -53,4 +56,9 @@ switch (true) {
 **Parallel Await**
 ```
 await Promise.all( collection.map( item => doAsyncOperation(item) ) )
+```
+
+**indexOf Found**
+```
+if ( ~foo.indexOf(bar) )
 ```
