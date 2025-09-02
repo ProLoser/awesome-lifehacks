@@ -39,3 +39,18 @@ minimalism and skeuomorphism
 
 `ctrl + R` in Terminal will allow you to search through your command history
 
+## JavaScript
+
+**Inverted Switch**
+```
+switch (true) {
+  case  x > 0:
+  case  x < 0:
+  case  x == 0:
+}
+```
+
+**Parallel Await**
+```
+await Promise.all( collection.map( item => doAsyncOperation(item) ) )
+```
