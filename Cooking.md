@@ -38,3 +38,11 @@ If you cut the melon in half, you can sometimes store the remaining half in a la
 
 ## Garlic
 After trying several solutions, the OXO Garlic Press is the most reliable, fast, easy to clean, and peeling is optional.
+
+## Eggs 
+Egg cooker 
+TODO instructions
+
+## Coffee
+Starbucks and Dunkin use syrup.
+TODO option-o mini, nanofoamer, and flair 80 instructions
