@@ -4,7 +4,7 @@ Beauty is in the eye of the beholder
 
 ## Life is too short for matching socks
 All my socks either match identically or uniformly do not match each other. 
-I also switched 100% to gym underwear so I'm always ready for a sweaty day at Disneyland
+I also switched 100% to [gym](./Fitness.md) underwear so I'm always ready for a sweaty day at Disneyland
 
 ## Shoe Laces 
 I take time to tie my shoes. after covid, it's a luxury I like to embrace and enjoy the ritual of.
@@ -26,7 +26,7 @@ Great for boots and shoes with lots of eyelits, this technique can be mixed with
 ### Creative Lacing
 [Ian's Shoelace Site – all lacing styles](https://www.fieggen.com/shoelace/index.htm)
 
-## Marie Kondo that shit 
+## [Marie Kondo](./Organizing.md#ask-yourself-if-it-sparks-joy) that shit 
 If your clothing does not spark joy (usually you haven't worn it in over a year) donate it. make space for more opportunities to intentionally passively give yourself joy every day.
 
 ## Fashion isn't comfortable

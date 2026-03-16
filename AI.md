@@ -7,7 +7,7 @@ I feel one thing people do not take into consideration in the AI world is that p
 My API key was compromised for Google Cloud just because I hosted a map, due to the open permissions on the key. Someone was able to create multiple AIs that operated autonomously and cost me money.
 I locked down everything immediately and created completely new keys with extremely restricted permissions.
 
-When using AI you should not trust by default. You should isolate the sandbox environment and not share your daily-use environment with the machine. If you do have AI step in, you should peer review every action it takes and act on the assumption that it will try to break things at every opportunity.
+When using AI you should not trust by default. You should isolate the sandbox environment and not share your daily-use environment with the machine. If you do have AI step in, you should [peer review](./Coding.md#peer-review) every action it takes and act on the assumption that it will try to break things at every opportunity.
 
 > Maintain a healthy disdain for AI.
 
