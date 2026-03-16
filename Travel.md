@@ -4,7 +4,7 @@
 Your laptop is a battery, USB-C ftw. 
 
 ### Battery Saver
-I adjusted Battery Saver on my phone to turn on at 75% batter (the maximum). This reduces the amount of activity apps perform in the background and how much animation appears on screen. "Extreme" Battery Saver will disable all applications except those on customizeable list and further nerf performance to extend battery life.
+I adjusted Battery Saver on my phone to turn on at 75% battery (the maximum). This reduces the amount of activity apps perform in the background and how much animation appears on screen. "Extreme" Battery Saver will disable all applications except those on a customizable list and further nerf performance to extend battery life.
 
 ### Offline Google Maps
 You can download arbitrary portions of google maps to reduce the need for data when traveling.

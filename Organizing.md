@@ -1,6 +1,6 @@
 # Organizing
 
-Inspirations: Adam Savage, Marie Condo
+Inspirations: Adam Savage, Marie Kondo
 
 ## [First Order Retrievability](https://www.youtube.com/watch?v=vyCrHLYiGNo)
 The items you use most frequently should be the most accessible. 
@@ -33,4 +33,4 @@ ritualize refilling your go bags and cleaning and prepping upon completing the a
 Just focus on one thing at a time.
 Have a home for everything. Where would you need it?
 That way you will always know when something is missing.
-Take sollace and embrace the tedium. Do not rush yourself. Build better habits step by step.
+Take solace and embrace the tedium. Do not rush yourself. Build better habits step by step.

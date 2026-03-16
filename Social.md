@@ -9,7 +9,7 @@ Stare at someone long enough and they will move. Ignore eye contact and they wil
 
 Treat it as a social experiment to see how beings react. Can you use eye contact to do telekinesis? What is normal? What is weird? why should anyone care?
 
-If you lived your life with blindness and suddenly could see, you would stare at every little detail of the world in wreckless abandon. The same feels true of Lasik.
+If you lived your life with blindness and suddenly could see, you would stare at every little detail of the world in reckless abandon. The same feels true of Lasik.
 
 Your vision is a tool for safety and to understand the world around you. don't artificially censor it out of fear.
 

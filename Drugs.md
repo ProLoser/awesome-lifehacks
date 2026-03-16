@@ -8,10 +8,10 @@ Taking an anesthetic right before surgery: really really good. taking anesthetic
 - Dr Drew Pinsky 
 
 ## Movie "Limitless"
-It's literally about Adderall. spoilled rich kids pop them and sell them like candy. might as well understand what they do. 
-also, Adderall is just slow-release meth
+It's literally about Adderall. Spoiled rich kids pop them and sell them like candy — might as well understand what they do.
+Also, Adderall is just slow-release meth.
 
-## what if I have a bad trip?
+## What If I Have a Bad Trip?
 Explore it. 
 
 These feelings and emotions come from somewhere, and the stronger you push against them or try to control your thoughts the more difficult and frustrated you will become. just remember that "this too shall pass", relent to time, and just go along with and explore these feelings as an opportunity to better examine yourself from the inside out. 
