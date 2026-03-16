@@ -7,7 +7,7 @@ When COVID hit, most stores were only open in the middle of the afternoon. It fo
 
 Ask questions, take notes, and research while actively reviewing work of your teammates to keep them unblocked. Focus on reviews and teammate velocity. When your plan is ready, take a block of hours to disconnect from the world and focus purely on programming (or just going through emails)
 
-I found my productivity increase reduced the need for coding sessions maybe once or twice a week. It's important to create situations where you can tunnel focus on the task at hand uninterrupted. When the plan and research is clear, your code will flow freely.
+I found my [productivity](./Productivity.md) increase reduced the need for coding sessions maybe once or twice a week. It's important to create situations where you can tunnel focus on the task at hand uninterrupted. When the plan and research is clear, your code will flow freely.
 
 At the end of the day, you can only ask yourself to accomplish one thing. Move the needle. Hit the ball back into someone else's court. Not every ball, not every court. But challenge yourself with the lowest you can attain and see how far your momentum takes you.
 
@@ -31,7 +31,7 @@ Focus on the 20% effort that would cover 80% of the results / users. Then identi
 
 
 ## Peer Review
-Every line of code committed into production should be reviewed by at least 1 other human. Even interns and junior engineers are good enough. AI provides ideas, not security.
+Every line of code committed into production should be reviewed by at least 1 other human. Even interns and junior engineers are good enough. [AI](./AI.md) provides ideas, not [security](./Security.md).
 
 ## Interface Design
 Forgiveness vs Permission

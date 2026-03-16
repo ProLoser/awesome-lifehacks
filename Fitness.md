@@ -1,6 +1,6 @@
 # Fitness
 
-I switched all my underwear to gym boxers so I'm always ready for a sweaty day at Disneyland
+I switched all my underwear to [gym boxers](./Fashion.md) so I'm always ready for a sweaty day at Disneyland
 
 ## Breathing 
 

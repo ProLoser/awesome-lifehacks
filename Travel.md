@@ -13,4 +13,4 @@ You can download arbitrary portions of google maps to reduce the need for data w
 If you need to interact with locals (when travelling) the easiest way to broach conversation is to ask people for their opinions. You don't have to listen to them, but it's a great way to explore.
 
 ## When in Rome, do as the Romans
-Food is Culture, try Everything once
+[Food](./Eating.md) is Culture, try Everything once

@@ -37,7 +37,7 @@ When signing up for most websites and services, I try to tag the registration em
 
 This allows me to systematically filter emails based on the address used, to further validate that the vendor is legitimate, as well as to keep track of how your email address becomes shared or distributed (legally or otherwise).
 
-Finally, using distinct email addresses for every website or service is more secure than using the same address on multiple website. Unfortunately Open Authentication (using a partner to login) does not support customizing your email address before sharing it.
+Finally, using distinct email addresses for every website or service is more secure than using the same address on multiple website. Unfortunately [Open Authentication](./Security.md) (using a partner to login) does not support customizing your email address before sharing it.
 
 When a website or account is compromised, typically small, outdated or poorly secured systems like old forums, hackers will try to use the account credentials on multiple other popular services to see if the victim used the same credentials in multiple places. While simply using the same email address in multiple places isn't necessarily insecure, this approach gives you ability to better control how your information gets exposed to the web in a more proactive and actionable way.
 
