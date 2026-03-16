@@ -2,6 +2,8 @@
 
 At work, people will attribute the way you communicate by some key traits. If you are proactive about growth, demonstrate your contrast to the passive and complacent.
 
+## Modes of Communication
+
 ### Complaining
 
 Complaining usually makes you look less promotable because it signals negativity without offering solutions. It draws attention to problems but doesn’t demonstrate initiative or problem-solving ability.

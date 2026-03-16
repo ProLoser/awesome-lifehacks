@@ -1,7 +1,7 @@
 # Cleaning
 
-### Clean from top to bottom
-Clean up high to let grime fall down to the next surface. 
+## Clean Top to Bottom
+Clean up high to let grime fall down to the next surface.
 Eventually you will have all the dirt on the floor at which point I highly recommend a robot vacuum/mop with self refilling/cleaning base station.
 
 ## Dishwasher

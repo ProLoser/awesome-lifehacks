@@ -32,8 +32,8 @@ Sometimes I will fast for a day just to allow more time to digest but be careful
 
 ## Give away the last bite
 
-## Pay extra 
-Unfortunately, eating healthy can invariably be more expensive. If you're not hurting for funds, try switching your meat to shrimp or adding steak to your salad if you're aversed to the cardboard most places pass for chicken with salads.
+## Pay Extra
+Unfortunately, eating healthy can invariably be more expensive. If you're not hurting for funds, try switching your meat to shrimp or adding steak to your salad if you're averse to the cardboard most places pass for chicken with salads.
 
 ## 8oz Soda cans
 Try to get the ones with real sugar instead of HFCS
@@ -44,7 +44,7 @@ The fastest way to increase calories anything less processed and less artificial
 ## Water Supplement
 I have mixed feelings about most dietary supplements because it's so difficult to measure effectiveness and so easy to just mindlessly incorporate into the rest of your file for no meaningful reason other than placebo.
 
-That said, a great way to eat less (unhealthy) food is to simply substitute it in which case water makes an excellent option so the most important detail is to take time and energy (and expense) to find an enjoyable form of consumption like a fancy water bottle that stays cold for 24 hours in your favorite colors. Anything to subconsciously encourage yourself to adopt healthier daily habits and rituals by reducing the perceived barrier to effort and increasing the perceived delight or associating the positive habit with emotional reward.
+That said, a great way to eat less (unhealthy) food is to simply substitute it, in which case water makes an excellent option. The most important detail is to take time and energy (and expense) to find an enjoyable form of consumption — like a fancy water bottle that stays cold for 24 hours in your favorite color. Anything to subconsciously encourage yourself to adopt healthier daily habits and rituals by reducing the perceived barrier to effort and increasing the perceived delight, or by associating the positive habit with emotional reward.
 
 # Drinking 
 

@@ -11,7 +11,7 @@ I found my productivity increase reduced the need for coding sessions maybe once
 
 At the end of the day, you can only ask yourself to accomplish one thing. Move the needle. Hit the ball back into someone else's court. Not every ball, not every court. But challenge yourself with the lowest you can attain and see how far your momentum takes you.
 
-## anti patterns
+## Anti-Patterns
 Code patterns are just tools. They are not typically good or bad, they are merely tools that we can choose to leverage or bias ourselves to avoid. Instead always be open to changing your perspective when given new information.
 
 ## Code Debt and Refactorability
@@ -19,11 +19,11 @@ The "R" word is not a 4 letter word although many managers seem to react that wa
 
 Code debt exploration spikes although frequently incomplete are still extremely useful. I have left DRAFTs open years and find I am always able to come back and revisit this knowledge. Instead of forcing your team to adopt large painful changes, try to slice your draft into smaller pieces that can be used as fixes for bugs as they surface. This will help ground the effort in meaningful value for the end user and product managers.
 
-Try to write code with the intention of refactoring. Anticipate future expectations of evolving behavior and try to adopt the relevant paradigms and patterns without increasing complexitly prematurely. It is always easier to make something simple more complicated than it is to make something complicated more simple.
+Try to write code with the intention of refactoring. Anticipate future expectations of evolving behavior and try to adopt the relevant paradigms and patterns without increasing complexity prematurely. It is always easier to make something simple more complicated than it is to make something complicated more simple.
 
 Although research spikes may yield insight, they are sometimes costly and difficult to merge. One way to enable opportunities to work on and merge code debt is by associating the code debt with bug fix and performance improvement opportunities (tracked in a project manager of course), so that your manager and team can have greater visibility to the value of the work and tradeoffs.
 
-Premature Optimization is like other Premature things... Emberrassing.
+Premature Optimization is like other Premature things... Embarrassing.
 - Unknown
 
 ## 80/20 Rule
@@ -45,7 +45,7 @@ minimalism (focus) and skeuomorphism (adoption)
 ## JavaScript
 
 **Inverted Switch**
-```
+```javascript
 switch (true) {
   case  x > 0:
   case  x < 0:
@@ -54,11 +54,11 @@ switch (true) {
 ```
 
 **Parallel Await**
-```
+```javascript
 await Promise.all( collection.map( item => doAsyncOperation(item) ) )
 ```
 
 **indexOf Found**
-```
+```javascript
 if ( ~foo.indexOf(bar) )
 ```

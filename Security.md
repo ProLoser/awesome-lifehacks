@@ -7,4 +7,4 @@ Use a different, randomly generated, password for every website. You should only
 
 In exchange, compromising of your randomly generated password is negligible, as you can immediately sign back in and change to a new randomly generated password.
 
-Logging in with Open Authintication (partner logins) are secure as your password is never shared with the service, but you cannot [customize your email using email tags](../Productivity.md#use-email-tags-sub-addresses) before it is shared with the partner.
+Logging in with Open Authentication (partner logins) are secure as your password is never shared with the service, but you cannot [customize your email using email tags](../Productivity.md#use-email-tags-sub-addresses) before it is shared with the partner.
