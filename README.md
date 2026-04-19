@@ -16,6 +16,7 @@
 - [Eating](./Eating.md)
 - [Fashion](./Fashion.md)
 - [Fitness](./Fitness.md)
+- [Hygiene](./Hygiene.md)
 - [OneWheel](./OneWheel.md)
 - [Organizing](./Organizing.md)
 - [Plants](./Plants.md)
