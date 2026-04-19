@@ -25,12 +25,6 @@ If you have night dry or don't experience water spots, consider switching Extra 
 #### Consider "Express" Mode
 If you find your dishes are effectively washed from regular use, consider using the "Express" mode which may decrease the amount of water and max temperature and duration of the wash while possibly yielding the same results.
 
-## Mouthwash Cap
-
-The cap on a mouthwash bottle serves a dual purpose most people overlook:
-- The **inner cap** is sized for a single dose of mouthwash — fill it to the line and use that amount to rinse.
-- The **outer cap** (the larger cup the inner cap sits inside) is meant for rinsing your mouth with water afterward.
-
 ## Washing Machine
 
 ### Place heavier items in the bottom of the washer
