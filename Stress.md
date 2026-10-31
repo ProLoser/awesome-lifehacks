@@ -1,5 +1,10 @@
 # Stress
 
+## Making Decisions
+"I don't regret making decisions"
+
+look after triple-checking and exhausting all of your options. all the data and all the experiences lead you to certain decisions in your life in no matter of fact, good or bad. they end up being you to follow through on your convictions to have any momentum.
+
 ## Journaling is Cheaper than Therapy
 
 A therapist is a friend you pay to listen to your life and share insights based on other people's lives in similar situations. A doctor is usually someone you briefly interact with when something goes wrong and then you dump all the recent context you think is relevant and they try to regurgitate a pill that magically makes it all go away.
