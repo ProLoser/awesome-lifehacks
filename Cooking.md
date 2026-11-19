@@ -46,3 +46,18 @@ TODO instructions
 ## Coffee
 Starbucks and Dunkin use syrup.
 TODO option-o mini, nanofoamer, and flair 80 instructions
+
+## Smoked Brisket (pellet smoker, not-offset)
+I used the [Freedom Portable Pellet Grill and Smoker](https://pellethead.com/product/freedom-portable-pellet-grill-and-smoker/?gad_source=1&gad_campaignid=22458595825&gbraid=0AAAAADkCyIl28VxxaiT7rU5MBl6VT7t8Z&gclid=Cj0KCQjw1ZjOBhCmARIsADDuFTAUswFTYDNbd2KSE340C6w4KhgaRgNlyD1akC_OJ4M-W2Sd8qpedDoaAv50EALw_wcB) because they were very communicative on YouTube and I want to try smoking turkey for Thanksgiving.
+
+This grill only fits half a brisket, I will try doing 2 at once later but the heat is very directional so for now I'm trying to do half correctly. I freeze the other half and cook later.
+
+### Requirements
+- [ ] 1/2 Brisket
+
+### Prep
+1. Full Hopper (fuel)
+2. Remove and clean grill (Ceramic Coated) fits in Dishwasher and Dawn Spray works great for caked in
+3. Remove 
+4. Clean basket and blow out all dust and loose particles.
+5. [Optional] Add handfull of pellets to basket after replacing
